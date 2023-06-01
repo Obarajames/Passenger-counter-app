@@ -1,0 +1,55 @@
+/* Body style*/
+body{
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+    box-sizing: border-box;
+    background: orange;
+}
+.container{
+    width: 400px;
+    height: 300px;
+    margin-top: 10%;
+    background: whitesmoke;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 20px;
+}
+.container h1{
+    color: black;
+    margin-left: 40px;
+}
+.line{
+    width: 90%;
+    height: 3px;
+    background: gray;
+    margin-top: -20px;
+    margin-left: 13px;
+}
+.container h2{
+    margin-top: 12%;
+    margin-left: 40%;
+    font-size: 60px;
+    font-weight: bolder;
+
+}
+.container p {
+    font-size: 22px;
+    margin-top: -20px;
+}
+.container button{
+    padding: 16px;
+    border-radius: 20px;
+    margin-left: 20%;
+    border: none;
+    cursor: pointer;
+}
+.first-btn{
+    background-color: rgb(21, 135, 206);
+    color: white;
+}
+.second-btn{
+    background-color: green;
+    color: white;
+    
+}
